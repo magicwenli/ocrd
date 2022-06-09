@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+wigGraph/
+test*
+
+# Remove the build result
+none_tss.bed
+output/
+*.log
+data/*
+build/
+.DS_Store
